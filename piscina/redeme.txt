@@ -1,0 +1,5 @@
+Estes exercicios consitem em um código com trechos faltando e diversos candidados para preencher as lacunas existentes.
+
+Os techos podem ser repetidos ou não, depende do exercício.
+
+O desafio consiste em completar o código com os trechos fornecidos, a fim de obter a saída de dados proposta.
